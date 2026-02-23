@@ -1,0 +1,25 @@
+items:
+  - date: "2025-12-17"
+    title: "Offer received: MSc Data Science (Computer Science Data Informatics)"
+    logo: "/images/logos/manchester.jpg"
+    summary: "Received an offer for MSc Data Science (Computer Science Data Informatics) at the University of Manchester (2026 intake)."
+  
+  - date: "2025-12-05"
+    title: "Offer received: MSc Health Data Science"
+    logo: "/images/logos/manchester.jpg"
+    summary: "Received an offer for MSc Health Data Science at the University of Manchester."
+
+  - date: "2025-12-05"
+    title: "Offer received: MSc Applied Statistical Modelling & Health Informatics"
+    logo: "/images/logos/KCL.jpg"
+    summary: "Received an offer for MSc Applied Statistical Modelling & Health Informatics at King's College London."
+
+  - date: "2023-07-25"
+    title: "Mahjong Soul Rank-Up"
+    logo: "/images/logos/mahjong_soul.png"
+    summary: "Reached Saint rank in 4-player ranked matches."
+
+  - date: "2022-08-19"
+    title: "StarCraft II Milestone"
+    logo: "/images/logos/starcraft2.jpg"
+    summary: "Achieved Master League as Zerg."
